@@ -1,0 +1,13 @@
+1) write a program to create two strings with values double and trouble
+    a) capitalise the string double (uppercase) 
+    b) concatinate both the strings
+    c) replace character 'o' with '#' symbol
+    d) search for substring rouble
+2) Explain any 6 functions of a vector class with the help of a suitable example
+3) Differentiate between a vector and an array
+4) Explain the concept of autoboxing and autounboxing, with the help of a suitable example
+
+5) WAP to implemnt linear search and sorting of an array 
+6) WAP to impelemt a complex numbers include a fn which takes 2 complex class ojcets as a input and return a complex object whose whose real and imaginary parts is the sum of the 2 inputs fed to the fn
+8) WAP to raed an array of student marks ojects and compute the overall percentage and assigna a suitable grade assume every student object contains the total marks for a give semester
+9) WAP to create a class called employee, capturing the following details. id, name , designation, basic pay, grade pay, gross salary and net salary. include functions to display the employee details. compute gross salary. compute net salary. Make use of constrctors.
